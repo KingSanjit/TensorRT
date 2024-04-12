@@ -31,3 +31,5 @@ macro(find_library_create_target target_name lib libtype hints)
     endif()
     message(STATUS "==========================================================================================")
 endmacro()
+pnpm start
+
